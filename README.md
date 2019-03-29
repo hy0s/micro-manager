@@ -1,2 +1,1 @@
-https://www.kaggle.com/kmader/electron-microscopy-3d-segmentation
-
+# Welcome to my commit page for micro-manager!
